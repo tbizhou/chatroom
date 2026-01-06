@@ -1,0 +1,7 @@
+Redis:
+    DB: 10
+    Password: "123456"
+    Username: ""
+    Addr: "localhost"
+    Port: 6379
+    PoolSize: 100
